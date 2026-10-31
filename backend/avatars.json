@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Cat",
+        "image": "https://t4.ftcdn.net/jpg/02/66/72/41/360_F_266724172_Iy8gdKgMa7XmrhYYxLCxyhx6J7070Pr8.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dog",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Robot",
+        "image": "https://magipik.com/_next/image?url=https%3A%2F%2Fmedia.magipik.com%2Fsample%2Fdata%2Fpreview%2Fcute-line-art-robot-vector-illustration-icon-design-294639.png&w=1500&q=75"
+    },
+    {
+        "id": 4,
+        "name": "Alien",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yfDhae-lfmjfKAIsYGlNrIFsOu6C2NntmQ&s"
+    }
+]
